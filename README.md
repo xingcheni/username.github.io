@@ -1,5 +1,7 @@
 # demo1.github.io
 个人博客
+
+
 jdk和jre
 	jdk是开发工具，jre是运行环境。
 	jdk包含了jre、源码。开发人员必须安装jdk。如果没有jdk的话源码和线程什么都会没有
